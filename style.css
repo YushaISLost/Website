@@ -57,25 +57,3 @@ nav ul li a:hover {
 	color: #333131;
 	transition: all 0.3s ease;
 } 
-
-
-
-/* Add a new class for nav links */
-
-
-@keyframes border-gradient {
-	0% {
-		border-image: linear-gradient(to right, #d73879, #ff8c00);
-		border-image-slice: 1;
-	}
-
-	50% {
-		border-image: linear-gradient(to right, #ff8c00, #d73879);
-		border-image-slice: 1;
-	}
-
-	100% {
-		border-image: linear-gradient(to right, #d73879, #ff8c00);
-		border-image-slice: 1;
-	}
-}

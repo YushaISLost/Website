@@ -1,0 +1,61 @@
+backup code
+
+
+<!-- About Section -->
+	<section id="about">
+		<div class="container">
+			<h2>About Me</h2>
+			<p>
+
+
+
+
+			</p>
+		</div>
+	</section>
+
+	<!-- Projects Section -->
+	<section id="Projects">
+		<div class="container">
+			<h2>My Personal Projects</h2>
+			<div class="Project-grid">
+				<div class="work-item">
+					<img src="Project1.jpg" alt="Project 1">
+					<h3>Let There Be Light</h3>
+					<h3>Level: Beginner-Friendly</h3>
+					<p> I completed this project using Arduino LED lights and learned how to control LED lights with an
+						Arduino board and generate various lighting patterns through programming. I also gained
+						knowledge of serial communication protocols, C++, and Python.
+						To complete the project, I connected the LED lights to the Arduino board and wrote code to
+						generate different lighting patterns. I also connected the Arduino board to a Raspberry Pi and
+						developed a custom interface to control the lights.
+						Through this project, I gained hands-on experience with programming, hardware, and project
+						development. Additionally, I gained an understanding of LED lights and how to control them using
+						an Arduino board.</p>
+				</div>
+				<div class="work-item">
+					<img src="Project2.jpg" alt="Project 2">
+					<h3>The Portfolio To Go! </h3>
+					<h3>Level: Beginner-Friendly</h3>
+					<p> I've created a simple NFC portfolio to go!. Simply by only using a tap card similar to those
+						used in payment kiosks pair with an iphone or andriod and it'll ask for permission for the popup
+						to be running adn viola your own website or portfolio will be linked!
+						I started this project primarly because career expo are way to short to introduce yourself as
+						well as there are many competitors I thought this could be an easy solution towards the problems
+						interviewees might face.
+					</p>
+				</div>
+				<div class="work-item">
+					<img src="Project3.jpg" alt="Project 3">
+					<h3>Project 3 will be undecided for now</h3>
+					<p> </p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+
+
+index.html
